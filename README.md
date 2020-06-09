@@ -1,4 +1,4 @@
-# FIFA 19 Clustering and Classification
+# FIFA 19 - Clustering and Classification
 - Background
 - Findings
   - Summary Statistics
@@ -19,5 +19,7 @@ This project is a statistical analysis of the players of FIFA 19's game, using t
 ### Machine Learning models
 
 ## Usage
+This project can be viewed in a proper way [here](www.githubpages.com). In this notebook you will find the basis of the project and a wide view of the work done and the code.
 
 ## Legality
+This is an academic project which was made for non-commercial purposes. The project does not have any monetary value, for the creator or the user.
